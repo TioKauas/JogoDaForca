@@ -1,0 +1,15 @@
+D:\Projetos C#\Senac\Dev Sistema\JogoDaForca.ConsoleApp\bin\Debug\net7.0\JogoDaForca.ConsoleApp.exe
+D:\Projetos C#\Senac\Dev Sistema\JogoDaForca.ConsoleApp\bin\Debug\net7.0\JogoDaForca.ConsoleApp.deps.json
+D:\Projetos C#\Senac\Dev Sistema\JogoDaForca.ConsoleApp\bin\Debug\net7.0\JogoDaForca.ConsoleApp.runtimeconfig.json
+D:\Projetos C#\Senac\Dev Sistema\JogoDaForca.ConsoleApp\bin\Debug\net7.0\JogoDaForca.ConsoleApp.dll
+D:\Projetos C#\Senac\Dev Sistema\JogoDaForca.ConsoleApp\bin\Debug\net7.0\JogoDaForca.ConsoleApp.pdb
+D:\Projetos C#\Senac\Dev Sistema\JogoDaForca.ConsoleApp\obj\Debug\net7.0\JogoDaForca.ConsoleApp.csproj.AssemblyReference.cache
+D:\Projetos C#\Senac\Dev Sistema\JogoDaForca.ConsoleApp\obj\Debug\net7.0\JogoDaForca.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos C#\Senac\Dev Sistema\JogoDaForca.ConsoleApp\obj\Debug\net7.0\JogoDaForca.ConsoleApp.AssemblyInfoInputs.cache
+D:\Projetos C#\Senac\Dev Sistema\JogoDaForca.ConsoleApp\obj\Debug\net7.0\JogoDaForca.ConsoleApp.AssemblyInfo.cs
+D:\Projetos C#\Senac\Dev Sistema\JogoDaForca.ConsoleApp\obj\Debug\net7.0\JogoDaForca.ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Projetos C#\Senac\Dev Sistema\JogoDaForca.ConsoleApp\obj\Debug\net7.0\JogoDaForca.ConsoleApp.dll
+D:\Projetos C#\Senac\Dev Sistema\JogoDaForca.ConsoleApp\obj\Debug\net7.0\refint\JogoDaForca.ConsoleApp.dll
+D:\Projetos C#\Senac\Dev Sistema\JogoDaForca.ConsoleApp\obj\Debug\net7.0\JogoDaForca.ConsoleApp.pdb
+D:\Projetos C#\Senac\Dev Sistema\JogoDaForca.ConsoleApp\obj\Debug\net7.0\JogoDaForca.ConsoleApp.genruntimeconfig.cache
+D:\Projetos C#\Senac\Dev Sistema\JogoDaForca.ConsoleApp\obj\Debug\net7.0\ref\JogoDaForca.ConsoleApp.dll
